@@ -338,7 +338,7 @@ def export_tables(
 def run_interactive():
     """Interactive console prompt with dialogs and rich configuration."""
     print("=" * 65)
-    print("        PDF Table Extractor & Converter (Interactive Mode)")
+    print("        PDF Table Extractor & Converter (Interactive Mode) By Abhijeet Pandey | https://github.com/abhijeetrentpur/pdf-table-extraction-tool")
     print("=" * 65)
 
     # 1. Source Selection
